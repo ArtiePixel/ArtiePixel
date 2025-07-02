@@ -1,4 +1,4 @@
-## printf("Hello, World\n");
+## std::cout << "Hello, World" << std::endl;
 
 <pre>
 $ fortune | cowsay                      ArtiePixel@github.com
