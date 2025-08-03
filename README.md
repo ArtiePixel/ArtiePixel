@@ -3,8 +3,8 @@
 <pre>
 $ fortune | cowsay                      ArtiePixel@github.com
  --------------------                   ---------------------
-/ For the times, they \                 Studying: Computer Engineering at UFPB (Universidade Federal da Paraíba)
-\ are a-changing.     /                 Interests: Hardware, Linux and low-level programming.
+/ For the times, they \                 Studying: Computer Engineering at UFPB (Universidade Federal da Paraíba).
+\ are a-changing.     /                 Interests: Hardware, Linux, low-level programming and Computational Seeing.
  --------------------                   About me: Hi, I'm Arthur (I prefer being called Artie), and at the moment I'm studying
         \   ^__^                        Computer Engineering at Federal University of Paraíba (UFPB). I love coding and learning
          \  (oo)\_______                new things. Also, I'm quite passionate about Arduino and ESP32, as well for automation and
@@ -12,3 +12,8 @@ $ fortune | cowsay                      ArtiePixel@github.com
                 ||----w |
                 ||     ||⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
+
+## Skills
+- Languages: C, C++, Python
+- Technologies: Arduino, Esp32
+- Others: Linux.
