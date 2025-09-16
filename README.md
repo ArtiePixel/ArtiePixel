@@ -4,11 +4,11 @@
 $ fortune | cowsay                      ArtiePixel@github.com
  --------------------                   ---------------------
 / For the times, they \                 Studying: Computer Engineering at UFPB (Universidade Federal da Paraíba).
-\ are a-changing.     /                 Interests: Hardware, Linux, low-level programming and Computational Seeing.
+\ are a-changing.     /                 Interests: Software, Linux, low-level programming, Back-End, Computational Seeing and Optimization.
  --------------------                   About me: Hi, I'm Arthur (I prefer being called Artie), and at the moment I'm studying
         \   ^__^                        Computer Engineering at Federal University of Paraíba (UFPB). I love coding and learning
-         \  (oo)\_______                new things. Also, I'm quite passionate about Arduino and ESP32, as well for automation and
-            (__)\       )\/\            robotics. I'm also a member of <a href= "https://github.com/RAS-UFPB">IEEE RAS UFPB (Robotics and Automation Society)</a>.
+         \  (oo)\_______                new things. I'm also quite interested about operational research and optimization as well.
+            (__)\       )\/\            
                 ||----w |
                 ||     ||⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
